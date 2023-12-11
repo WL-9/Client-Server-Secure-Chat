@@ -6,13 +6,17 @@ This Python-based client-server chat application demonstrates secure communicati
 Features
 
 •	Encrypted chat messaging via SSL/TLS.
+
 •	GUIs for both client and server.
+
 •	RSA for secure key exchange.
+
 •	Fernet (AES) for message encryption.
 
 Requirements
 
 •	Python 3.x
+
 •	Libraries: socket, ssl, rsa, cryptography, tkinter, threading, logging, datetime
 
 Setup
