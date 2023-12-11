@@ -2,7 +2,7 @@
 
 Overview
 
-This Python-based client-server chat application demonstrates secure communication using cryptographic techniques.
+This Python-based client-server chat application showcases secure communication using cryptographic techniques. It includes both secured and unsecured versions for educational and testing purposes.
 
 Features:
 
@@ -32,8 +32,6 @@ Running the Application:
 
 Security:
 
-•	SSL/TLS ensures a secure connection.
+Secured Version: SSL/TLS, RSA, Fernet encryption.
 
-•	RSA for key exchange.
-
-•	Fernet (AES) for encrypting messages.
+Unsecured Version: Operates without encryption for educational and testing comparison.
