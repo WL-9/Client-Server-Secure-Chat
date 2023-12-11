@@ -33,5 +33,7 @@ Running the Application:
 Security:
 
 •	SSL/TLS ensures a secure connection.
+
 •	RSA for key exchange.
+
 •	Fernet (AES) for encrypting messages.
